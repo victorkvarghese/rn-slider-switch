@@ -19,10 +19,6 @@
     "rn-multi-switch",
     "react-native-multi-switch"
   ],
-  "dependencies": {
-    "react": "16.2.0",
-    "react-native": "0.52.1"
-  },
   "devDependencies": {
     "babel-eslint": "^8.2.1",
     "babel-jest": "22.1.0",
