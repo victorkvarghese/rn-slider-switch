@@ -14,6 +14,10 @@ npm install rn-slider-switch --save
 ![alt text](https://raw.githubusercontent.com/victorkvarghese/rn-slider-switch/master/one.png)
 ![alt text](https://raw.githubusercontent.com/victorkvarghese/rn-slider-switch/master/last.png)
 
+[YOUTUBE : See slider in action](https://www.youtube.com/watch?v=d7oeRdoRyFk&feature=youtu.be)
+
+
+
 ## Example:
 ```
 import MultiSwitch from './lib';
