@@ -32,7 +32,7 @@ import MultiSwitch from 'rn-slider-switch';
                     isParentScrollEnabled={false}
                     onStatusChanged={text => {
                         console.log('Change Status ', text);
-                    }}
+                    }}/>
 ```
 
 ## Props:
