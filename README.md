@@ -20,7 +20,7 @@ npm install rn-slider-switch --save
 
 ## Example:
 ```
-import MultiSwitch from './lib';
+import MultiSwitch from 'rn-slider-switch';
 <MultiSwitch
                     currentStatus={'Open'}
                     disableScroll={value => {
