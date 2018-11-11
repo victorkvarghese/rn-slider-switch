@@ -44,5 +44,3 @@ import MultiSwitch from 'rn-slider-switch';
                     }}/>
 ```
 
-## Props:
-* Pending
