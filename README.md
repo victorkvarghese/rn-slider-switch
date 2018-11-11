@@ -16,6 +16,15 @@ npm install rn-slider-switch --save
 
 [YOUTUBE : See slider in action](https://www.youtube.com/watch?v=d7oeRdoRyFk&feature=youtu.be)
 
+## Properties
+
+| Prop                                                    | Description                                                                                                    |
+| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **`currentStatus`**                                     | Initial Status of the slider . Defaults to 'Open'. Other values include 'In Progress', 'Complete'                   |
+| **`onStatusChanged`**                                    | Called when status changes in Slider                                                                         |
+| **`isParentScrollDisabled`**                                    | Whether scroll is disabled in Parent                                                                      |
+| **`disableScroll`**                                | Used to disable scroll in parent .. Works as callback function if u want to disable scroll in parent                               |
+
 
 
 ## Example:
