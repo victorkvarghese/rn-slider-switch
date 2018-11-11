@@ -22,8 +22,8 @@ npm install rn-slider-switch --save
 | ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | **`currentStatus`**                                     | Initial Status of the slider . Defaults to 'Open'. Other values include 'In Progress', 'Complete'                   |
 | **`onStatusChanged`**                                    | Called when status changes in Slider                                                                         |
-| **`isParentScrollDisabled`**                                    | Whether scroll is disabled in Parent                                                                      |
-| **`disableScroll`**                                | Used to disable scroll in parent .. Works as callback function if u want to disable scroll in parent                               |
+| **`isParentScrollDisabled`**                                    | Whether scroll is disabled in Parent.(Optional)                                                                 |
+| **`disableScroll`**                                | Used to disable scroll in parent .. Works as callback function if u want to disable scroll in parent.(Optional)                                  |
 
 
 
