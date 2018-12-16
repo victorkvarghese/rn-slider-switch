@@ -24,6 +24,8 @@ npm install rn-slider-switch --save
 | **`onStatusChanged`**                                    | Called when status changes in Slider                                                                         |
 | **`isParentScrollDisabled`**                                    | Whether scroll is disabled in Parent.(Optional)                                                                 |
 | **`disableScroll`**                                | Used to disable scroll in parent .. Works as callback function if u want to disable scroll in parent.(Optional)                                  |
+| **`disableSwitch`**                                | Used to disable switch (Click & scroll will not work) .. (Optional)                                 |
+
 
 
 
